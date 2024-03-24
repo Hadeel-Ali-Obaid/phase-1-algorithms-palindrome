@@ -35,7 +35,7 @@ function isPalindrome(word) {
   And returns false if the string is not a palindrome
 */
 
-// You can run `node index.js` to view these console logs
+// You can run `node index.js` to view these console logs.
 if (require.main === module) {
   // add your own custom tests in here
 
